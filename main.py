@@ -38,7 +38,7 @@ crear_tumba(victima.nome, 85, subtexto, f'Kills: {victima.kills}', '#1 Posto', 4
 media = api.media_upload("resultado.png")
 tweet = f'{hoxe}: {asesino.nome} {verbo} a {victima.nome}{mod}'
 
-#api.update_status(status=tweet, media_ids=[media.media_id])
+api.update_status(status=tweet, media_ids=[media.media_id])
 print(tweet)
 print('Tweet publicado')
 
