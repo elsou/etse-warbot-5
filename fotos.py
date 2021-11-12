@@ -20,7 +20,7 @@ def crear_tumba(nome, big_size, subtexto, kills, posto, small_size):
     edicion_final = Image.alpha_composite(edicion_final, logo)
 
     edicion_final.save("resultado.png")
-    edicion_final.show()
+    #edicion_final.show()
 
 
 def add_text(font, text, pos, img):
