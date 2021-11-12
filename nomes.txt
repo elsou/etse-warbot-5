@@ -1,9 +1,14 @@
-Daniel Souto/o/x/0
-Ana Lopez/a/x/0
-Anxo Trillo/o/x/0
-Maria Vazquez/a/x/0
-Antonio Garcia/o/x/0
-Valeria Casas/a/x/0
-Sergio Perez/o/x/0
-Ana Miranda/a/x/0
-Alex Rodriguez/o/x/0
+Daniel Souto/o/4/x/0/100
+Ana Lopez/a/2/x/0/100
+Anxo Trillo/o/4/x/0/100
+Maria Vazquez/a/3/x/0/100
+Antonio Garcia/o/2/x/0/100
+Valeria Casas/a/2/x/0/100
+Sergio Perez/o/1/x/0/100
+Ana Miranda/a/1/x/0/100
+Alex Rodriguez/o/3/x/0/100
+Diego Salvado/o/4/x/15/250
+Manuel Ladra/o/3/x/0/100
+Felipe Gago/o/3/x/0/100
+Natalia Seoane /o/3/x/0/100
+Xose Pardo/o/3/x/0/100
